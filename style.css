@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+}
+
+.nav {
+    width: 100%;
+    height: 6vh;
+    box-sizing: border-box;
+}
+
+.nav2 {
+    width: 100%;
+    height: 6vh;
+    background-color:#f2f2f2;
+    box-sizing: border-box;
+}
+
+
+.content {
+    text-align: center;
+    padding-top: 1.8vh;
+    font-size: 16px;
+    width: 4%;
+    height: 6vh;
+    float: left;
+    box-sizing: border-box;
+}
+
+.content2 {
+    text-align: center;
+    padding-top: 1.8vh;
+    font-size: 16px;
+    width: 5%;
+    height: 6vh;
+    float: left;
+    box-sizing: border-box;
+    background-color:#f2f2f2;
+}
+
+.bosluk {
+    float:left;
+    width: 76%;
+}
+
+.bosluk2 {
+    float:left;
+    width: 67%;
+    background-color:#f2f2f2;
+}
+
+.main {
+    height: 88vh;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.bolme {
+    width: 33%;
+    height: 30vh;
+    float: left;
+    margin-top: 6vh;
+    margin-left: 0.5vh;
+    box-sizing: border-box;
+}
+
+.bolme2 {
+    width: 33%;
+    height: 3vh;
+    float: left;
+    box-sizing: border-box;
+}
+
+.icon {
+    padding-right: 25px;
+    background: url("voicelogo.png") no-repeat right;
+    background-size: 20px;
+    border-color: rgb(147, 147, 149);
+}
+
+.efektif {
+    float:left;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.yankapa {
+    height: 5vh;
+    width: 40%;
+    float: left;
+}
+
+.butonlar {
+    width: 10%;
+    height: 5vh;
+    float: left;
+    padding: 10px;
+}
+
+.buton {
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 5px 30px;
+    background-color: #ece9e9;
+    color: #676565;
+}
+
+.signin {
+    padding: 10px 15px;
+    margin-top: -9px;
+    margin-left: -5px;
+    color: white;
+    background-color: deepskyblue;
+    border: 1px solid white;
+    border-radius: 10px;
+}
